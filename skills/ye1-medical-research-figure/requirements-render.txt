@@ -1,0 +1,2 @@
+# Optional fallback for PNG/TIFF when Poppler's pdftoppm is not available.
+pypdfium2>=5,<6

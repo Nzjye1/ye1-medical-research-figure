@@ -1,0 +1,2 @@
+# Only needed for plotting from aggregate results or executing a custom plotting script.
+matplotlib>=3.9,<4

@@ -1,0 +1,3 @@
+# Optional, only for SVG input; PDF rendering does not require system Cairo.
+svglib>=2.2,<3
+defusedxml>=0.7,<1
